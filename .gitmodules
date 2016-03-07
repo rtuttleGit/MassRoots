@@ -1,0 +1,6 @@
+[submodule "External/External/OctoKit"]
+	path = External/External/OctoKit
+	url = https://github.com/octokit/octokit.objc.git
+[submodule "External/OctoKit"]
+	path = External/OctoKit
+	url = https://github.com/octokit/octokit.objc.git
