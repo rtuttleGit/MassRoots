@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "54FA657E1AC98DFDB90A19140FFB726D78A5C5A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "54FA657E1AC98DFDB90A19140FFB726D78A5C5A7" : 0,
+    "F4E0D01C239078022205F5EFE09E8AB524DA87ED" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "67827DBD-F878-4D17-80C1-EF9BBD0518C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "54FA657E1AC98DFDB90A19140FFB726D78A5C5A7" : "MassRoots\/",
+    "F4E0D01C239078022205F5EFE09E8AB524DA87ED" : "MassRoots\/External\/OctoKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MassRoots",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MassRoots.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rtuttleGit\/MassRoots.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "54FA657E1AC98DFDB90A19140FFB726D78A5C5A7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/octokit\/octokit.objc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4E0D01C239078022205F5EFE09E8AB524DA87ED"
+    }
+  ]
+}
